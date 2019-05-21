@@ -4,6 +4,7 @@
 #  Prof. Dr. Elloa Barreto Guedes da Costa
 #  Aluno(a): Erik Atilio Silva Rey       Matricula: 1715310059       Curso: Sistemas de Informaçao
 # -----------------------------------------------------------------------------------------------------
+
 import ast
 
 #  ESTRUTURA DA MAQUINA DE TURING
