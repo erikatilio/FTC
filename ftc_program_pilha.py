@@ -76,7 +76,6 @@ while True:
         #  Adiciona a lista de expressoes e verifica expressao.
         expressoes.append(expressao)
         print(casar(expressao))
-
 #  Junta todos os elementos da lista expressoes.
 resultado = ''.join(expressoes)
 print(casar(resultado))
